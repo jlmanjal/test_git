@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+.col-md-4{
+	height: 200px;
+}
+#menu{
+	border: 3px solid #FF9900;
+	height: 50px;
+	width: 300px;
+}
+#webfont{
+	font-family: 'Jeju Gothic', serif;
+}
+*{
+	max-width: 100%;
+}
+.carlist{
+	position: absolute;
+	margin: auto;
+	padding-bottom: 50px;
+}
+.car1{
+	height: 120px;
+	width: 200px;
+	opacity: 0.5;
+}
+.car2{
+	height: 120px;
+	width: 200px;
+    opacity: 0.5;
+}
+.car3{
+	height: 120px;
+	width: 200px;
+    opacity: 0.5;
+}
+.ximg1{
+	position: absolute;
+	width: 314px;
+	height: 200px;
+}
+.ximg2{
+	position: absolute;
+	width: 314px;
+	height: 200px;
+}
+.ximg3{
+	position: absolute;
+	width: 314px;
+	height: 200px;
+}
+#two, #three, #four{
+	display: none;
+}
+.fadecycle div{
+	position: absolute;
+}
+
+#09img2, #09img3, #09img4{
+	display: none;	
+}
